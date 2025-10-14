@@ -1,0 +1,6 @@
+# Ignore compiled files and debug folders
+*.out
+*.o
+*.exe
+*.dSYM/
+Pointers/pointers1
